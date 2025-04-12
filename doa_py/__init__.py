@@ -115,5 +115,5 @@ This project is licensed under the [MIT](LICENSE) License - see the LICENSE file
 for details.
 """
 
-__version__ = "0.4.0"
+__version__ = "0.4.1"
 __author__ = "Qian Xu"

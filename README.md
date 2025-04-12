@@ -108,6 +108,14 @@ You can see more plot results of the algorithm in the [Showcase](#showcase).
 - Coherent DOA estimation
   - [x] smoothed-MUSIC
 
+### metrics
+- [x] RMSPE
+- [ ] CRLB for 2D DoA estimation
+
+### tools
+- [x] find_angles_from_spectrum
+
+
 ### Showcase
 
 ![ESPRIT](./pics/esprit.svg)
